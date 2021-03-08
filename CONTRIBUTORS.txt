@@ -12,4 +12,5 @@
 - Borja Rondan Dominguez (borromdom@alum.us.es)
 - Alejandro Santisteban Corchos (alesancor1@alum.us.es)
 - Carlos Atienza Carretero (caraticar@alum.us.es)
+- Tomas Galera Barrera (tomgalbar@alum.us.es)
 
