@@ -1,4 +1,4 @@
-# NOTICE.txt
+# CONTRIBUTORS.txt
 #
 # Copyright (c) 2012-2021 Rafael Corchuelo.
 #
@@ -9,4 +9,8 @@
 # they accept any liabilities with respect to them.
 
 - Rafael Corchuelo (corchu@us.es)
+- Borja Rondan Dominguez (borromdom@alum.us.es)
+- Alejandro Santisteban Corchos (alesancor1@alum.us.es)
+- Carlos Atienza Carretero (caraticar@alum.us.es)
+- Tomas Galera Barrera (tomgalbar@alum.us.es)
 - Lucas Pérez (lucperrui@alum.us.es)
